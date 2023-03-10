@@ -226,7 +226,7 @@
   visibility: hidden !important;
 }
 .theme-dark .placeholder-1rCBhr::before {
-  content: "Life is so much easier when you just take a time to chill";
+  content: "Жизнь становится намного проще, когда ты просто находишь время, чтобы почиллить.";
   color: rgba(255, 255, 255, 0.2);
   font-family: "Poppins";
   font-size: 13px;
@@ -1819,7 +1819,7 @@ display: block;
   font-size: 26px;
 }
 .body-1oUQrZ:after {
-  content: " If you are sure it's not a virus, copy the link and paste to your browser. Wish you the best and don't get hacked that easily.";
+  content: " Если вы уверены, что это не вирус, скопируйте ссылку и вставьте в браузер. Желаю вам всего наилучшего и не попадайтесь так легко на взлом.";
 }
 .body-1oUQrZ strong {
   color: #a21fff !important;
