@@ -1591,7 +1591,7 @@ background: transparent!important;
   position: relative;
   overflow: hidden;
 }
-.theme-dark .sidebar-1tnWFu .content-1SgpWY:after{
+.theme-dark .sidebar-1tnWFu .content-yjf30S:after{
 content: 'this big gap is for the floating user controls, so sry if it looks ugly';
 font-size: 13px;
 color: rgba(255, 255, 255, 0.03);
@@ -1819,7 +1819,7 @@ display: block;
   font-size: 26px;
 }
 .body-1oUQrZ:after {
-  content: " Если вы уверены, что это не вирус, скопируйте ссылку и вставьте в браузер. Желаю вам всего наилучшего и не попадайтесь так легко на взлом.";
+  content: " If you are sure it's not a virus, copy the link and paste to your browser. Wish you the best and don't get hacked that easily.";
 }
 .body-1oUQrZ strong {
   color: #a21fff !important;
